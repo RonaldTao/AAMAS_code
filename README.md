@@ -14,6 +14,7 @@ with custom weights to get the performance of the baseline method for policy com
 
 #### 2.2 RL-based Training
 For RL-based policy training, the code can be found the folder of 'RL-based Training'. 
+
 Run 
 ```bash 
 Full_observation.ipynb
