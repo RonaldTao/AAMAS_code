@@ -36,6 +36,8 @@ IL_based_training.ipynb
 to train policy under partial observbation using IL.
 
 
+### 3. Evaluation
+
 Given any trained policy, we can use the corresponding file from the folder of 'Policy Evalution' to evalute its performance. 
 Use 
 ```bash 
