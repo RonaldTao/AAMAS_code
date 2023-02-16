@@ -45,6 +45,6 @@ to evalute IL-trained policies under partial observation. Use 'RL-trained_full.i
 
 Use 
 ```bash 
-'RL-trained_partial.ipynb' 
+RL-trained_partial.ipynb
 ```
 to evalute RL-trained policies under partial observation.
