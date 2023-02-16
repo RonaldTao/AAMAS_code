@@ -6,4 +6,4 @@ For RL-based policy training, the code can be found the folder of 'RL-based Trai
 
 For IL-based policy training, the code can be found the folder of 'IL-based Training'. Given a saved RL-trained policy (expert) under full observation, run 'Generate_data_set.ipynb' to obtain observation-action pairs for IL training. Once we obtain the dataset, run 'IL-based_training.ipynb' to train policy under partial observbation using IL.
 
-Given any trained policy, we can use the corresponding file from the folder of 'Policy Evalution' to evalute its performance. 
+Given any trained policy, we can use the corresponding file from the folder of 'Policy Evalution' to evalute its performance. Use 'IL-trained_partial.ipynb' to evalute IL-trained policies under partial observation. Use 'RL-trained_full.ipynb' to evalute RL-trained policies under full observation. Use 'RL-trained_partial.ipynb' to evalute RL-trained policies under partial observation.
