@@ -43,7 +43,13 @@ Use
 ```bash 
 IL_trained_partial.ipynb
 ```
-to evalute IL-trained policies under partial observation. Use 'RL-trained_full.ipynb' to evalute RL-trained policies under full observation.
+to evalute IL-trained policies under partial observation. 
+
+Use 
+```bash 
+'RL-trained_full.ipynb' 
+```
+to evalute RL-trained policies under full observation.
 
 Use 
 ```bash 
