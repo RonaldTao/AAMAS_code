@@ -31,7 +31,7 @@ to obtain observation-action pairs for IL training.
 
 Once we obtain the dataset, run 
 ```bash 
-IL-based_training.ipynb
+IL_based_training.ipynb
 ```
 to train policy under partial observbation using IL.
 
