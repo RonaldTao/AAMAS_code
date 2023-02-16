@@ -45,20 +45,21 @@ to train policy under partial observbation using IL.
 
 ### 3. Evaluation
 
-Given any trained policy, we can use the corresponding file from the folder of 'Policy Evalution' to evalute its performance. 
-Use 
+Given any trained policy, we can use the corresponding file from the folder of 'Policy Evalution' to evalute its performance.
+
+Run
 ```bash 
 IL_trained_partial.ipynb
 ```
 to evalute IL-trained policies under partial observation. 
 
-Use 
+Run
 ```bash 
 RL-trained_full.ipynb 
 ```
 to evalute RL-trained policies under full observation.
 
-Use 
+Run
 ```bash 
 RL_trained_partial.ipynb
 ```
