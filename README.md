@@ -6,21 +6,27 @@ Follow https://rgautron.gitlabpages.inria.fr/gym-dssat-docs/Installation/index.h
 ### 2. Training
 
 #### 2.1 Baselines
-For RL-based policy training, the code can be found the folder of 'RL-based Training'. 
-
 Run 
 ```bash 
 Baseline.ipynb
 ```
 to get the results of the baseline method for policy comparison. 
 
+#### 2.2 RL-based Training
+For RL-based policy training, the code can be found the folder of 'RL-based Training'. 
 Run 
 ```bash 
 Full_observation.ipynb
 ```
-to train policies under full observation with custom weights using RL. Run 'Partial_onserbation.ipynb' to train policy under partial observtion with custom weights using RL.
+to train policies under full observation with custom weights using RL. 
 
-#### 2.2 Partial Observation
+Run
+```bash 
+Partial_onserbation.ipynb
+```
+to train policy under partial observtion with custom weights using RL.
+
+#### 2.3 IL-based Training
 For IL-based policy training, the code can be found the folder of 'IL-based Training'. 
 
 Given a saved RL-trained policy (expert) under full observation, run
