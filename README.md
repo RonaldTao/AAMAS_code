@@ -1,5 +1,7 @@
 # Optimizing Crop Management with Reinforcement Learning and Imitation Learning
 
+Accepted by AAMAMS:[ArXiv](https://arxiv.org/pdf/2209.09991.pdf)
+
 ### 1. Dependencies
 Follow https://rgautron.gitlabpages.inria.fr/gym-dssat-docs/Installation/index.html to install the required GYM-DSSAT. It's recommended to follow 'With pacakges' and GYM-DSSAT is currently only available for Linux machines.
 
